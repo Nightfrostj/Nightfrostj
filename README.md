@@ -1,4 +1,4 @@
-# Hey there, I'm Jess! 👋✨
+# Hey there, I'm Jess! 👋✨🥴
 
 Welcome to my little corner of GitHub!  
 I’m currently on a coding adventure — learning, building, and figuring things out one step at a time.

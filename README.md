@@ -1,34 +1,45 @@
-# Hey there, I'm Jess! 👋✨🥴
+# Hey there, I'm Jess! 👋✨
 
 Welcome to my little corner of GitHub!  
 I’m currently on a coding adventure — learning, building, and figuring things out one step at a time.
+I am also balancing this with university life.🥲
+---
+### 🌱 What I'm Learning
+
+* 🌐 HTML & CSS (The web basics!)
+* 🐍 Python (Building backend logic & scripts)
+* 🗄️ SQL (Mastering database management)
+* 📊 Power BI (Diving into data analytics)
 
 ---
 
-## 🌱 What I’m Learning
-- HTML & CSS (The web basics!)
-- JavaScript (Soon… the magic begins!)
-- Python (because why not?)
-- Git & GitHub (version control is kinda cool, right?)
+### 💻 What I'm Up To
 
-## 💻 What I’m Up To
-- Practicing on **freeCodeCamp**
-- Doodling with code when I get bored
-- Daydreaming about building cool projects someday
-- Secretly excited about **Data Science & Web Development**
+* 🚀 Working with my team on a 6-week tech-driven campus group project
+* 📚 Grinding through exercises on freeCodeCamp to catch up for midsems
+* 🦉 Living that night-owl study life and balancing coursework at KNUST School of Business (KSB)
+* 💡 Bridging business operations and technology through Business Information Technology
 
-## 🛠 Tools I’m Exploring
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+---
+
+### 🛠️ Tools & Skills
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 
 ---
 
 ## 🌟 Fun Fact
-I didn’t choose the code life… the code life chose me.
+---
+* 🦉 Certified night owl: code works best when the rest of the world is asleep. 
 
 ---
 
